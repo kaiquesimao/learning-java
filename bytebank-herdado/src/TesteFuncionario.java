@@ -4,7 +4,7 @@ public class TesteFuncionario {
 
 		Funcionario nico = new EditorVideo();
 
-		nico.setNome("Nico Steppat");
+		nico.setNome("Kaique Simão");
 		nico.setCpf("223355646-9");
 		nico.setSalario(2590.80);
 
